@@ -127,7 +127,7 @@ Each student's information is displayed as a separate card with a divider.
 **Ayush Dudhat**
 
 - GitHub: https://github.com/ayushdudhat22
-- LinkedIn: https://www.linkedin.com/in/Ayush-Dudhat
+- LinkedIn: https://www.linkedin.com/in/ayush-dudhat-1b020937b/
 - Presentation Link: https://drive.google.com/drive/folders/1zaEbnt368A2EY3EHqZNNkzuFqwaWrgFw
 
 ---
